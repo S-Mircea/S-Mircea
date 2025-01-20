@@ -1,6 +1,6 @@
 # Hi there, I'm Mircea! 👋
 
-![Welcome Banner](https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub+Profile)
+<img height="500px" width="100%" src="https://raw.githubusercontent.com/El-Mazouzi/El-Mazouzi/main/banner-2.png" />
 
 I'm a final-year **Computer Science student** based in London, UK. Passionate about programming, algorithms, and creating software solutions that make an impact! 🚀  
 Currently working on my university project: **Health Risk Prediction Software Solution**.
