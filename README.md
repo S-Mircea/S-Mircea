@@ -81,7 +81,7 @@ Optimal cable length calculation for network infrastructure
 ---
 
 ## 📈 GitHub Stats  
-![S. Mircea's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Mircea&show_icons=true&theme=radical)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Mircea&layout=compact&theme=radical)  
 
 ---
