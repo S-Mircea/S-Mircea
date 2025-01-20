@@ -37,6 +37,7 @@ Currently working on my university project: **Health Risk Prediction Software So
 Advanced machine learning project focusing on urban sound classification using the UrbanSound8K dataset.
 
 **Technologies: Python, scikit-learn, librosa, pandas, numpy, matplotlib**
+
 Key Features:
 
 Implemented SVM classification for urban sound recognition
@@ -51,6 +52,7 @@ Real-time audio processing and visualization
 Developed a sophisticated route planning system for the London Underground network.
 
 **Technologies: Python, NetworkX, Pandas**
+
 Key Features:
 
 Implemented Dijkstra's algorithm for finding shortest paths
@@ -65,6 +67,7 @@ Visualization of journey times using matplotlib
 Kotlin-based application for optimizing telecommunications network connections across European capitals.
 
 **Technologies: Kotlin, Graph Theory**
+
 Key Features:
 
 Implementation of Kruskal's algorithm for Minimum Spanning Tree
