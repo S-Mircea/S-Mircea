@@ -47,7 +47,7 @@ A digital app designed to monitor users' lifestyle habits (diet, exercise, sleep
 ---
 
 ## 📫 Get in Touch  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/mircea-serban-s81/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mircea-serban-s81/) 
 - 📧 Email: mirceaserban1981@gmail.com 
 
 ---
