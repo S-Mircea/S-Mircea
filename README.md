@@ -2,7 +2,7 @@
 
 <img height="500px" width="100%" src="https://raw.githubusercontent.com/El-Mazouzi/El-Mazouzi/main/banner-2.png" />
 
-I'm a final-year **Computer Science student** based in London, UK. Passionate about programming, algorithms, and creating software solutions that make an impact! 🚀  
+I'm a final-year **Computer Science student** based in London, UK. 
 Currently working on my university project: **Health Risk Prediction Software Solution**.
 
 ---
