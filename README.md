@@ -8,10 +8,9 @@ Currently working on my university project: **Health Risk Prediction Software So
 ---
 
 ## 🌟 About Me  
-- 🎓 Final-year Computer Science student.  
-- 🌱 I’m currently expanding my knowledge in **Machine Learning** and **Python**.  
-- 💻 Exploring efficient algorithms and improving my problem-solving skills.  
-- 🔍 Actively seeking **graduate software developer roles** in the UK.  
+-🎯 Computer Science Student passionate about software development
+🌱 Currently learning and growing my skills
+💡 Always excited to collaborate on interesting projects
 
 ---
 
@@ -32,11 +31,49 @@ Currently working on my university project: **Health Risk Prediction Software So
 
 ---
 
-## 🏆 Featured Project  
-### Health Risk Prediction Software Solution  
-![Project Thumbnail](https://via.placeholder.com/800x400?text=Health+Risk+Prediction+App)  
-A digital app designed to monitor users' lifestyle habits (diet, exercise, sleep) and analyze their data to predict potential health risks.  
-🔗 [Check out the project repository here](https://github.com/S-Mircea/Health-Risk-Prediction)
+## 🎯 University Projects
+
+**🎵 Urban Sound Classification**
+Advanced machine learning project focusing on urban sound classification using the UrbanSound8K dataset.
+
+**Technologies: Python, scikit-learn, librosa, pandas, numpy, matplotlib**
+Key Features:
+
+Implemented SVM classification for urban sound recognition
+Feature extraction using MFCC and mel-spectrogram analysis
+Achieved high accuracy in distinguishing between 10 urban sound classes
+Real-time audio processing and visualization
+
+
+
+
+**🚇 London Underground Route Planner**
+Developed a sophisticated route planning system for the London Underground network.
+
+**Technologies: Python, NetworkX, Pandas**
+Key Features:
+
+Implemented Dijkstra's algorithm for finding shortest paths
+Built an efficient graph-based data structure
+Created user-friendly interface for station input
+Visualization of journey times using matplotlib
+
+
+
+
+**🌐 EuroConnect Telecommunications Network**
+Kotlin-based application for optimizing telecommunications network connections across European capitals.
+
+**Technologies: Kotlin, Graph Theory**
+Key Features:
+
+Implementation of Kruskal's algorithm for Minimum Spanning Tree
+Efficient graph data structures
+File-based data loading and processing
+Optimal cable length calculation for network infrastructure
+
+
+
 
 ---
 
