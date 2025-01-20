@@ -1,32 +1,59 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm Mircea! 👋
 
-###
+![Welcome Banner](https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub+Profile)
 
-<p align="left">My name is Mircea Serban and I'm a computer science student from London, United Kingdom.</p>
+I'm a final-year **Computer Science student** based in London, UK. Passionate about programming, algorithms, and creating software solutions that make an impact! 🚀  
+Currently working on my university project: **Health Risk Prediction Software Solution**.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🌟 About Me  
+- 🎓 Final-year Computer Science student.  
+- 🌱 I’m currently expanding my knowledge in **Machine Learning** and **Python**.  
+- 💻 Exploring efficient algorithms and improving my problem-solving skills.  
+- 🔍 Actively seeking **graduate software developer roles** in the UK.  
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Computer Science at Univerity of Greenwich.<br>🎯 Goals: Software Engineer, Software Developer.</p>
+## 🚀 My Skills  
+### Languages & Frameworks  
+- **Python**, **Java**, **Kotlin**, **Scala**, **C++**  
+- **HTML**, **CSS**, **JavaScript** , **MySQL**
 
-###
+### Core Concepts  
+- **Object-Oriented Programming**  
+- **Algorithms & Data Structures**  
+- **Machine Learning**  
 
-<h2 align="left">I code with</h2>
+### Tools & Platforms  
+- **Linux**  
+- **Git & GitHub**  
+- **VS Code**, **IntelliJ IDEA**  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+## 🏆 Featured Project  
+### Health Risk Prediction Software Solution  
+![Project Thumbnail](https://via.placeholder.com/800x400?text=Health+Risk+Prediction+App)  
+A digital app designed to monitor users' lifestyle habits (diet, exercise, sleep) and analyze their data to predict potential health risks.  
+🔗 [Check out the project repository here](https://github.com/S-Mircea/Health-Risk-Prediction)
+
+---
+
+## 📈 GitHub Stats  
+![S. Mircea's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Mircea&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Mircea&layout=compact&theme=radical)  
+
+---
+
+## 📫 Get in Touch  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/mircea-serban-s81/))  
+- 📧 Email: mirceaserban1981@gmail.com 
+
+---
+
+⭐️ **Feel free to explore my repositories and connect with me!**  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
