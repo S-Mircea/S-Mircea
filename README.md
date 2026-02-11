@@ -1,16 +1,13 @@
 # Hi there, I'm Mircea! 👋
 
 <img height="500px" width="100%" src="https://raw.githubusercontent.com/El-Mazouzi/El-Mazouzi/main/banner-2.png" />
-Computer Science Graduate (2:1) with strong foundations in Full-Stack Development and Machine Learning. Proven ability to
-deliver complex technical solutions, ranging from health analytics platforms to route optimisation algorithms. Skilled in
-troubleshooting, system administration, application testing, and data management.
 
 ---
 
 ## 🌟 About Me  
--🎯 Computer Science Student passionate about software development
-🌱 Currently learning and growing my skills
-💡 Always excited to collaborate on interesting projects
+Computer Science Graduate with strong foundations in Full-Stack Development and Machine Learning. Proven ability to
+deliver complex technical solutions, ranging from health analytics platforms to route optimisation algorithms. Skilled in
+troubleshooting, system administration, application testing, and data management.
 
 ---
 
