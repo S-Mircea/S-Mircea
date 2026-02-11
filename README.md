@@ -12,19 +12,15 @@ troubleshooting, system administration, application testing, and data management
 ---
 
 ## 🚀 My Skills  
-### Languages & Frameworks  
-- **Python**, **Java**, **Kotlin**, **Scala**, **C++**  
-- **HTML**, **CSS**, **JavaScript** , **MySQL**
 
-### Core Concepts  
-- **Object-Oriented Programming**  
-- **Algorithms & Data Structures**  
-- **Machine Learning**  
+Technical Skills: 
+Python, Java, Kotlin, JavaScript, SQL, Scala, Flask, React, Next.js, AWS, Azure DevOps.
 
-### Tools & Platforms  
-- **Linux**  
-- **Git & GitHub**  
-- **VS Code**, **IntelliJ IDEA**  
+Core Modules: 
+Data Structures & Algorithms, Software Engineering Principles, Machine Learning, Database Systems.
+
+Key Competencies: 
+Object-Oriented Programming, Network Security, RESTful API Design, Git/GitHub.
 
 ---
 
@@ -49,11 +45,23 @@ London Underground Route Optimisation | Python, NetworkX Academic Project
 
 
 ---
+## ⚙️ **GitHub Analytics**
 
-## 📈 GitHub Stats  
+<p align="center">
+  <a href="https://github.com/S-Mircea">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=S-Mircea&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=S-Mircea&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Mircea&layout=compact&theme=radical)  
+---
 
+## 📈 **Profile Views**
+<p align="center">
+  <a href="https://github.com/S-Mircea">
+    <img src="https://komarev.com/ghpvc/?username=S-Mircea&color=blue&style=flat">
+  </a>
+</p>
 ---
 
 ## 📫 Get in Touch  
