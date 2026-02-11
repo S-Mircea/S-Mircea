@@ -33,49 +33,22 @@ troubleshooting, system administration, application testing, and data management
 
 ## 🎯 University Projects
 
-**🎵 Urban Sound Classification**
-Advanced machine learning project focusing on urban sound classification using the UrbanSound8K dataset.
+Health Risk Prediction System | Python, Flask, React 
+– Engineered a full-stack cardiovascular disease risk assessment platform, achieving 85% diagnostic accuracy using
+Random Forest.
+– Developed a responsive React frontend integrated with a Flask backend, processing real-time environmental data APIs.
+– Conducted extensive data preprocessing and feature engineering to optimise model performance and reduce false
+positives.
 
-**Technologies: Python, scikit-learn, librosa, pandas, numpy, matplotlib**
+Urban Sound Classification System | Python, SVM 
+– Built an advanced Machine Learning classifier for urban sound recognition using the UrbanSound8K dataset.
+– Implemented complex signal processing (MFCC and Mel-spectrogram) to extract audio features.
+– Created real-time data visualisations using Matplotlib to display classification results dynamically.
 
-Key Features:
-
-Implemented SVM classification for urban sound recognition
-Feature extraction using MFCC and mel-spectrogram analysis
-Achieved high accuracy in distinguishing between 10 urban sound classes
-Real-time audio processing and visualization
-
-
-
-
-**🚇 London Underground Route Planner**
-Developed a sophisticated route planning system for the London Underground network.
-
-**Technologies: Python, NetworkX, Pandas**
-
-Key Features:
-
-Implemented Dijkstra's algorithm for finding shortest paths
-Built an efficient graph-based data structure
-Created user-friendly interface for station input
-Visualization of journey times using matplotlib
-
-
-
-
-**🌐 EuroConnect Telecommunications Network**
-Kotlin-based application for optimizing telecommunications network connections across European capitals.
-
-**Technologies: Kotlin, Graph Theory**
-
-Key Features:
-
-Implementation of Kruskal's algorithm for Minimum Spanning Tree
-Efficient graph data structures
-File-based data loading and processing
-Optimal cable length calculation for network infrastructure
-
-
+London Underground Route Optimisation | Python, NetworkX Academic Project
+– Designed a high-performance route planning engine for the London Underground network using Dijkstra’s algorithm.
+– Constructed efficient graph-based data structures to manage station nodes, reducing query response times.
+– Built a robust Command Line Interface (CLI) with comprehensive error handling to ensure user input validity.
 
 
 ---
