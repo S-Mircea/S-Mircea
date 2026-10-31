@@ -1,92 +1,84 @@
 <div align="center">
+  
+  <!-- Header animat (Typing SVG) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Salut%2C+sunt+Mircea+Serban!+%F0%9F%91%8B;Computer+Science+Grad+%26+Developer;Full-Stack+%7C+Mobile+%7C+AI+%26+Data;Building+Practical+Real-World+Solutions" alt="Typing SVG" />
+  </a>
 
-# Mircea Serban
+  <p align="center">
+    <i>Software Developer pasionat de arhitecturi curate, aplicații mobile utile, inginerie sustenabilă și automatizări AI.</i>
+  </p>
 
-**BSc Computer Science Graduate (2:1) | University of Greenwich, London**
-
-`Full-Stack Development` `Machine Learning` `RESTful APIs` `Data Engineering`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mircea-serban-s81/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirceaserban1981@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S-Mircea)
-
+  <!-- Butoane de contact rapide -->
+  <p align="center">
+    <a href="https://linkedin.com/in/(https://www.linkedin.com/in/mircea-serban/)" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:Mircea.serban.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://PORTOFOLIU_SAU_SITE.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## About Me
+### ⚡ Despre mine
 
-Computer Science graduate with a strong foundation in full-stack development and machine learning, now transitioning into software engineering after a disciplined career in UK logistics. I bring a unique combination of technical skill and professional resilience, having successfully completed my degree while working full-time across London's ports and automotive logistics sector. I'm passionate about building practical, well-engineered solutions and I'm actively seeking Junior Software Engineer or Graduate Developer opportunities.
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-
-**Web & Frameworks**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Testing & DevOps**
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-
-**Data & AI**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+- 🎓 **Educație:** BSc (Hons) în **Computer Science** (University of Greenwich) & MSc în curs în **Engineering with Sustainability** (University of Sunderland).
+- 🔭 **Focus actual:** Dezvoltare nativă Android (**ShiftMile**), aplicații web moderne cu **Next.js & Tailwind CSS** și integrări **AI / RAG** self-hosted.
+- 🧠 **Filosofie:** Îmi place să rezolv probleme reale, de la optimizarea rutelor și analiza datelor cu Machine Learning, până la configurarea infrastructurii în Linux & Docker.
 
 ---
 
-## Featured Projects
+### 🛠️ Tech Stack & Unelte
 
-### Health Risk Prediction System
-`Python` `Flask` `React` `Scikit-learn`
-- Engineered a full-stack diagnostic platform achieving **85% accuracy** using a Random Forest Classifier
-- Built a responsive React frontend integrated with a Flask REST API for real-time health data processing
-- Applied extensive data preprocessing and feature engineering to minimise false positives
+<div align="center">
+  <br/>
+  <b>Limbaje & Dezvoltare Core</b><br/><br/>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,js,ts,kotlin,java,html,css&theme=dark" alt="Languages" />
+  </p>
+  
+  <b>Frameworks, Web & Mobile</b><br/><br/>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,androidstudio,nodejs&theme=dark" alt="Frameworks" />
+  </p>
 
-### London Underground Route Optimisation
-`Python` `NetworkX`
-- Designed a high-performance route planning engine using Dijkstra's shortest path algorithm
-- Constructed efficient graph-based data structures to model the Tube network, reducing query response times
-- Built a robust CLI with comprehensive error handling and input validation
+  <b>Data, Cloud & DevOps</b><br/><br/>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,linux,arch,git,github&theme=dark" alt="DevOps & Systems" />
+  </p>
+</div>
 
 ---
 
-## GitHub Analytics
+### 🚀 Proiecte Reprezentative
 
-<p align="center">
-  <a href="https://github.com/S-Mircea">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=S-Mircea&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=S-Mircea&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+| Proiect | Tehnologii | Descriere |
+| :--- | :--- | :--- |
+| 📱 **ShiftMile** | `Kotlin` `Android` `GPS` | Aplicație nativă Android pentru șoferi și curieri: monitorizează rutele prin GPS, calculează costul de combustibil per milă și câștigul net orar în timp real. |
+| ❤️ **Cardio Risk ML** | `Python` `Scikit-Learn` `Flask` `React` | Sistem full-stack de predicție a riscului cardiovascular bazat pe modele de Machine Learning și interfață interactivă pentru analiză clinică. |
+| 🔊 **Audio Classifier** | `Python` `SVM` `MFCC` | Clasificator acustic antrenat pe setul de date UrbanSound8K folosind extracție de semnal MFCC și Support Vector Machines. |
+| 🚇 **Tube Route Optimizer** | `Python` `NetworkX` `Dijkstra` | Aplicație de optimizare a rutelor pentru metroul din Londra, bazată pe teoria grafurilor și algoritmul lui Dijkstra. |
+
+---
+
+### 📊 Activitate & Statistici
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=S-Mircea&color=0A66C2&style=flat-square&label=Profile+Views)
-
-**Open to opportunities** | Based in London, UK
-
+  <sub><i>"First, solve the problem. Then, write the code."</i></sub>
 </div>
