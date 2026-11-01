@@ -8,7 +8,7 @@
 
   <!-- Butoane Sociale Moderne (Stil Premium/Monocrom) -->
   <p align="center">
-    <a href="https://linkedin.com/in/mircea-serban-s81" target="_blank">
+    <a href="https://linkedin.com/in/mircea-serban" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
     </a>
     <a href="mailto:Mircea.serban.dev@gmail.com">
