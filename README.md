@@ -1,25 +1,26 @@
 <div align="center">
   
-  <!-- Header animat (Typing SVG) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Salut%2C+sunt+Mircea+Serban!+%F0%9F%91%8B;Computer+Science+Grad+%26+Developer;Full-Stack+%7C+Mobile+%7C+AI+%26+Data;Building+Practical+Real-World+Solutions" alt="Typing SVG" />
-  </a>
+  <!-- Titlu și Scurtă Descriere în stil Minimalist-Tech -->
+  <h1>💻 S-Mircea</h1>
+  <p align="center">
+    <strong>Computer Science Graduate | Full-Stack Developer & ML Enthusiast</strong>
+  </p>
+
+  <!-- Butoane Sociale Moderne (Stil Premium/Monocrom) -->
+  <p align="center">
+    <a href="https://linkedin.com/in/mircea-serban-s81" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    </a>
+    <a href="mailto:Mircea.serban.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-121214?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    </a>
+    <a href="https://github.com/S-Mircea" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-121214?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Portfolio" />
+    </a>
+  </p>
 
   <p align="center">
     <i>Software Developer pasionat de arhitecturi curate, aplicații mobile utile, inginerie sustenabilă și automatizări AI.</i>
-  </p>
-
-  <!-- Butoane de contact rapide -->
-  <p align="center">
-    <a href="https://linkedin.com/in/mircea-serban/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:Mircea.serban.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://mircea-serban.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
   </p>
 </div>
 
@@ -59,22 +60,28 @@
 
 | Proiect | Tehnologii | Descriere |
 | :--- | :--- | :--- |
-| 📱 **ShiftMile** | `Kotlin` `Android` `GPS` | Aplicație nativă Android pentru șoferi și curieri: monitorizează rutele prin GPS, calculează costul de combustibil per milă și câștigul net orar în timp real. |
-| ❤️ **Cardio Risk ML** | `Python` `Scikit-Learn` `Flask` `React` | Sistem full-stack de predicție a riscului cardiovascular bazat pe modele de Machine Learning și interfață interactivă pentru analiză clinică. |
-| 🔊 **Audio Classifier** | `Python` `SVM` `MFCC` | Clasificator acustic antrenat pe setul de date UrbanSound8K folosind extracție de semnal MFCC și Support Vector Machines. |
-| 🚇 **Tube Route Optimizer** | `Python` `NetworkX` `Dijkstra` | Aplicație de optimizare a rutelor pentru metroul din Londra, bazată pe teoria grafurilor și algoritmul lui Dijkstra. |
+| 📱 **[ShiftMile](https://github.com/S-Mircea)** | `Kotlin` `Android` `GPS` | Aplicație nativă Android pentru șoferi și curieri: monitorizează rutele prin GPS, calculează costul de combustibil per milă și câștigul net orar în timp real. |
+| ❤️ **[Cardio Risk ML](https://github.com/S-Mircea)** | `Python` `Scikit-Learn` `Flask` `React` | Sistem full-stack de predicție a riscului cardiovascular bazat pe modele de Machine Learning și interfață interactivă pentru analiză clinică. |
+| 🔊 **[Audio Classifier](https://github.com/S-Mircea)** | `Python` `SVM` `MFCC` | Clasificator acustic antrenat pe setul de date UrbanSound8K folosind extracție de semnal MFCC și Support Vector Machines. |
+| 🚇 **[Tube Route Optimizer](https://github.com/S-Mircea)** | `Python` `NetworkX` `Dijkstra` | Aplicație de optimizare a rutelor pentru metroul din Londra, bazată pe teoria grafurilor și algoritmul lui Dijkstra. |
 
 ---
 
 ### 📊 Activitate & Statistici
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- GitHub Stats (Reparat și stilizat pentru Dark Theme) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Mircea&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Mircea&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Mircea&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6" alt="GitHub Streak" />
 </div>
 
 ---
