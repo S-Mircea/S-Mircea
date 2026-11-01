@@ -32,27 +32,6 @@
 - 🔭 **Focus actual:** Dezvoltare nativă Android (**ShiftMile**), aplicații web moderne cu **Next.js & Tailwind CSS** și integrări **AI / RAG** self-hosted.
 - 🧠 **Filosofie:** Îmi place să rezolv probleme reale, de la optimizarea rutelor și analiza datelor cu Machine Learning, până la configurarea infrastructurii în Linux & Docker.
 
----
-
-### 🛠️ Tech Stack & Unelte
-
-<div align="center">
-  <br/>
-  <b>Limbaje & Dezvoltare Core</b><br/><br/>
-  <p>
-    <img src="https://skillicons.dev/icons?i=py,js,ts,kotlin,java,html,css&theme=dark" alt="Languages" />
-  </p>
-  
-  <b>Frameworks, Web & Mobile</b><br/><br/>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,androidstudio,nodejs&theme=dark" alt="Frameworks" />
-  </p>
-
-  <b>Data, Cloud & DevOps</b><br/><br/>
-  <p>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,linux,arch,git,github&theme=dark" alt="DevOps & Systems" />
-  </p>
-</div>
 
 ---
 
