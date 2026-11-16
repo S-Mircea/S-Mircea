@@ -49,20 +49,16 @@
 ### 📊 Activity & GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats & Top Languages (Dark Theme) -->
-  <a href="https://github.com/S-Mircea">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Mircea&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Mircea&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" />
-  </a>
+  <!-- Profile Details & Top Languages (Stable Endpoint) -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Mircea&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Mircea&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Streak (Fixed Demolab Endpoint) -->
-  <a href="https://github.com/S-Mircea">
-    <img src="https://streak-stats.demolab.com/?user=S-Mircea&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6" alt="GitHub Streak" />
-  </a>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=S-Mircea&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6" alt="GitHub Streak" />
 </div>
 
 ---
